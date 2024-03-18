@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <MPD xmlns="urn:mpeg:dash:schema:mpd:2011" profiles="urn:mpeg:dash:profile:isoff-live:2011" minBufferTime="PT2.00S" mediaPresentationDuration="PT1H49M33.000S" type="static">
-  <!-- Created with Bento4 mp4-dash.py, VERSION=2.0.0-640 -->
+  <!-- mamala -->
   <Period>
     <!-- Video -->
     <AdaptationSet mimeType="video/mp4" segmentAlignment="true" startWithSAP="1" maxWidth="1920" maxHeight="1080">
